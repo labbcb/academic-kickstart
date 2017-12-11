@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2017-12-10T01:27:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,36 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Biostatistics",
+    "Computational Biology",
+    "Applied Statistics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "PhD in Biostatistics"
+  institution = "Johns Hopkins University"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MSc in Statistics"
+  institution = "University of Campinas"
+  year = 2003
+
+[[education.courses]]
+  course = "BSc in Statistics"
+  institution = "University of Campinas"
+  year = 2001
  
 +++
 
-# Biography
+# The Laboratory
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The Biostatistics and Computational Biology Laboratory (BCB L@b) is
+led by Dr. Benilton S Carvalho and located at the Institute of
+Mathematics, Statistics and Scientific Computing at Univerversity of
+Campinas. The interest of the group is the development of statistical
+methodologies and software for the analysis and interpretation of
+high-throughput biological data. The laboratory also provides
+specialized consulting services in the fields of Applied Statistics
+and Bioinformatics.
